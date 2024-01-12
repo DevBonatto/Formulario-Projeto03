@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido com o intuito da criação de um formulário para a realização de eventos.
+Esse projeto foi desenvolvido com o intuito da criação de um formulário online para a realização de eventos.
 - [Acesse o projeto finalizado, online](https://devbonatto.github.io/Projeto03/)
 
 ## 🔖 Layout
