@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 02 </h1>
+<h1 align="center"> Projeto 03 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Treine Me é um projeto voltado para divulgar metodologias de ensino.
+Esse projeto foi desenvolvido com o intuito da criação de um formulário para a realização de eventos.
 - [Acesse o projeto finalizado, online](https://devbonatto.github.io/Projeto03/)
 
 ## 🔖 Layout
